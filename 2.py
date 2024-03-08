@@ -7,5 +7,5 @@ b=int(sys.stdin.readline())
 sys.stdout.write("Podaj 'c': ")
 c=int(sys.stdin.readline())
 d=str(a**b+c)
-sys.stdout.write(d)
+sys.stdout.write("a^b+c="+d)
 
